@@ -6,8 +6,12 @@ system.out.println("I could'nt repair your brakes, so I made your horn louder");
 
 }
 publi void upcomingEvents(){
+<<<<<<< HEAD
 system.out.println("Upcomin Events");
 
+=======
+system.out.println("Upcomin Events- Please join US");
+>>>>>>> moreEvents
 for (String event : events)
 	System.out.println(event);
 
